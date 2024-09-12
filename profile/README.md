@@ -1,14 +1,5 @@
-<div id="content" role="main">
-
-				
-					
-<article id="post-49" class="post-49 page type-page status-publish hentry">
-	<header class="entry-header">
-		<h1 class="entry-title">Recent Publications</h1>
-	</header><!-- .entry-header -->
-
-	<div class="entry-content">
-		<p><strong>2024</strong></p>
+<h1 class="entry-title">Recent Publications</h1>
+<p><strong>2024</strong></p>
 <ul>
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, M. C. Yawn, A. A. Taflanidis, and M. Bensi. (2024). “Machine Learning Motivated Data Imputation of Storm Data Used in Coastal Hazard Assessments.” <em>Coastal Engineering</em>, 190. <a href="https://doi.org/10.1016/j.coastaleng.2024.104505">https://doi.org/10.1016/j.coastaleng.2024.104505</a>.</li>
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, L. A. Aucoin, M. C. Yawn, and M. Bensi. 2024b. “Comparative Analysis of Joint Distribution Models for Tropical Cyclone Atmospheric Parameters in Probabilistic Coastal Hazard Analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 38: 1741–1767. <a href="https://doi.org/10.1007/s00477-023-02652-5">https://doi.org/10.1007/s00477-023-02652-5</a>.</li>
@@ -58,12 +49,4 @@
 			</footer><!-- .entry-meta -->
 </article><!-- #post-49 -->
 
-						<div id="comments">
-	
-	
-	
-	
-</div><!-- #comments -->
-
-				
-			</div>
+						
