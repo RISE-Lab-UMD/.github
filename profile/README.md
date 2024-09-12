@@ -1,3 +1,11 @@
+Risk-Informed Solutions in Engineering (RISE) Laboratory
+
+The RISE Lab team conducts research related to probabilistic assessment of natural hazards and associated risks as well as a variety of topics involving the applications of statistics and machine learning in engineering. RISE Lab researchers are engaged in projects involving seismic, inland flooding, precipitation, storm surge, and compound hazards.  Projects often focus on issues of relevance to nuclear power plants and other critical infrastructure.  In addition, RISE Lab researchers are engaged in a number of cross-disciplinary projects looking at topics as diverse as exploring the potential combined impacts of COVID and natural hazard events on communities of color, understanding the potential effects of climate change on contaminated sites and agriculture, and exploring seismic hazards to human lunar installations.
+
+The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UMD Center for Risk and Reliability. 
+
+RISE Lab graduate students are typically seeking degrees in Civil and Environmental Engineering and Reliability Engineering. However, graduate and undergraduate students from diverse majors have participated in projects through the RISELab.
+
 <h1 class="entry-title">Recent Publications</h1>
 <p><strong>2024</strong></p>
 <ul>
