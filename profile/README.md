@@ -6,8 +6,10 @@ The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UM
 
 RISE Lab graduate students are typically seeking degrees in Civil and Environmental Engineering and Reliability Engineering. However, graduate and undergraduate students from diverse majors have participated in projects through the RISELab.
 <h2> Repo contents<h2>
+<div class="tip" markdown="1">
 [NOAA API](https://github.com/RISE-Lab-UMD/Query-NOAA-API) [Hurdat2 Parser](https://github.com/RISE-Lab-UMD/Hurdat2-Parser) [Flood Event Scraper](https://github.com/RISE-Lab-UMD/getFloodEvents) [KAERI](https://github.com/RISE-Lab-UMD/KAERI) [Tidal- Data](https://github.com/RISE-Lab-UMD/Tidal-Data) [Windspeed Error Correlation](https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation) [Storms Batch Data](https://github.com/RISE-Lab-UMD/Storms-Batch-D)
 <h1 class="entry-title">Recent Publications</h1>
+</div>
 <p><strong>2024</strong></p>
 <ul>
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, M. C. Yawn, A. A. Taflanidis, and M. Bensi. (2024). “Machine Learning Motivated Data Imputation of Storm Data Used in Coastal Hazard Assessments.” <em>Coastal Engineering</em>, 190. <a href="https://doi.org/10.1016/j.coastaleng.2024.104505">https://doi.org/10.1016/j.coastaleng.2024.104505</a>.</li>
