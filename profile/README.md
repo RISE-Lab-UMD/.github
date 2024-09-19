@@ -6,9 +6,14 @@ The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UM
 
 RISE Lab graduate students are typically seeking degrees in Civil and Environmental Engineering and Reliability Engineering. However, graduate and undergraduate students from diverse majors have participated in projects through the RISELab.
 <h2> Repo contents<h2>
-<span style="display:block" class="note">
-[NOAA API](https://github.com/RISE-Lab-UMD/Query-NOAA-API) [Hurdat2 Parser](https://github.com/RISE-Lab-UMD/Hurdat2-Parser) [Flood Event Scraper](https://github.com/RISE-Lab-UMD/getFloodEvents) [KAERI](https://github.com/RISE-Lab-UMD/KAERI) [Tidal- Data](https://github.com/RISE-Lab-UMD/Tidal-Data) [Windspeed Error Correlation](https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation) [Storms Batch Data](https://github.com/RISE-Lab-UMD/Storms-Batch-D)
-</span>
+<a href="https://github.com/RISE-Lab-UMD/Query-NOAA-API">NOAA API</a>
+<a href="https://github.com/RISE-Lab-UMD/Hurdat2-Parser">Hurdat2 Parser</a>
+<a href="https://github.com/RISE-Lab-UMD/getFloodEvents">Flood Event Scraper</a>
+<a href="https://github.com/RISE-Lab-UMD/KAERI">KAERI</a>
+<a href="https://github.com/RISE-Lab-UMD/Tidal-Data">Tidal Data</a>
+<a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Windspeed Error Correlation</a>
+<a href="https://github.com/RISE-Lab-UMD/Storms-Batch-D">Storms Batch Data</a>
+
 <h1 class="entry-title">Recent Publications</h1>
 
 <p><strong>2024</strong></p>
