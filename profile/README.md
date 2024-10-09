@@ -8,7 +8,7 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <h2> Repo contents<h2>
 <a href="https://github.com/RISE-Lab-UMD/Hurdat2-Parser">Hurdat2 Parser</a><br>
 <a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Windspeed Error Correlation</a><br>
-<a href="https://github.com/RISE-Lab-UMD/Storms-Batch-D">Storms Batch Data - includes NOAA API querying</a><br>
+<a href="https://github.com/RISE-Lab-UMD/Storms-Batch-D">Batch-Downloading-Scripts</a><br>
 
 <h1 class="entry-title">Recent Publications</h1>
 
