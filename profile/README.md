@@ -40,7 +40,14 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <p><strong>2021</strong></p>
 <ul>
 <li>Lee, J.-W., J. L. Irish, M.T. Bensi, D. C. Marcy (2021), “Rapid prediction of peak storm surge from tropical cyclone track time series using machine learning,” <em>Coastal Engineering</em>. [<a href="https://doi.org/10.1016/j.coastaleng.2021.104024">https://doi.org/10.1016/j.coastaleng.2021.104024</a>]</li>
-<li>Gibson, E. and M. Bensi (2021), “Spatial Correlation in Ground Motion Prediction Errors in Central and Eastern North America.” <em>Earthquake Spectra</em>.]<strong><a href="https://umd.box.com/s/aq5zqq50p1bqakih1ppym6st9b9u0y9v">Calculations</a></strong> [<a href="https://journals.sagepub.com/doi/full/10.1177/87552930211034886">https://journals.sagepub.com/doi/full/10.1177/87552930211034886</a>] </li>
+<li>Gibson, E. and M. Bensi (2021), “Spatial Correlation in Ground Motion Prediction Errors in Central and Eastern North America.” <em>Earthquake Spectra</em>.] 
+	
+[<a href="https://journals.sagepub.com/doi/full/10.1177/87552930211034886">https://journals.sagepub.com/doi/full/10.1177/87552930211034886</a>] </li>
+
+&nbsp;-&nbsp;
+<strong> <a href="https://umd.box.com/s/aq5zqq50p1bqakih1ppym6st9b9u0y9v">Calculations </a> &nbsp;-&nbsp; <a href ="https://github.com/RISE-Lab-UMD/Manuscripts/blob/main/Spectra%20-%20CEUS%20Spatial%20Variability.pdf" >Manuscript</a>&nbsp;-&nbsp; <a href = "https://github.com/RISE-Lab-UMD/Figures/blob/main/SSA%20Presentation.pdf"> Presentation</a></strong>
+
+
 <li>Lingyao, L., M. Bensi, Q. Cui, G. Baecher, and Y. Huang (2021), “Social media crowd-sourcing for rapid damage assessment following sudden-onset natural hazard events.” <em>International Journal of Information Management</em>. [<a href="https://doi.org/10.1016/j.ijinfomgt.2021.102378"> https://doi.org/10.1016/j.ijinfomgt.2021.102378 </a>]</li> <strong><a href = "https://umd.box.com/s/oiouuese5x6q4z1ay534ql9tugraqpeg">Calculations</a></strong> 
 <li>DeJesus Segarra, J., M. Bensi, M. Modarres (2021), “A Bayesian Network Approach for Modeling Dependent Seismic Failures in a Nuclear Power Plant Probabilistic Risk Assessment.” <em>Reliability Engineering and System Safety</em>.   [<a href="https://doi.org/10.1016/j.ress.2021.107678">https://doi.org/10.1016/j.ress.2021.107678</a>]<strong><a href = "https://umd.box.com/s/00rxo5mvm7xvljl2triqd9n38gxx199l">Calculations</a></strong></li>
 <li>Al Kajbaf, A. and M. Bensi (2021), “Assessment of Uncertainty in Regional and At-site Precipitation Frequency Analysis for the Localized Region of Ellicott City, Maryland.” <em>Natural Hazards</em>. [<a href="https://link.springer.com/article/10.1007/s11069-021-04786-7">https://link.springer.com/article/10.1007/s11069-021-04786-7</a>]</li>
