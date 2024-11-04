@@ -1,5 +1,5 @@
 <h1 class="entry-title">Risk-Informed Solutions in Engineering (RISE) Laboratory </h1>
-<ol>
+<ol type="1">
 The RISE Lab team conducts research related to probabilistic assessment of natural hazards and associated risks as well as a variety of topics involving the applications of statistics and machine learning in engineering. RISE Lab researchers are engaged in projects involving seismic, inland flooding, precipitation, storm surge, and compound hazards.  Projects often focus on issues of relevance to nuclear power plants and other critical infrastructure.  In addition, RISE Lab researchers are engaged in a number of cross-disciplinary projects looking at topics as diverse as exploring the potential combined impacts of COVID and natural hazard events on communities of color, understanding the potential effects of climate change on contaminated sites and agriculture, and exploring seismic hazards to human lunar installations. <br/>
 
 The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UMD Center for Risk and Reliability. 
@@ -14,12 +14,12 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <h1 class="entry-title">Recent Publications</h1>
 
 <p><strong>2024</strong></p>
-<ol>
+<ol type="1">
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, M. C. Yawn, A. A. Taflanidis, and M. Bensi. (2024). “Machine Learning Motivated Data Imputation of Storm Data Used in Coastal Hazard Assessments.” <em>Coastal Engineering</em>, 190. <a href="https://doi.org/10.1016/j.coastaleng.2024.104505">https://doi.org/10.1016/j.coastaleng.2024.104505</a>.</li> <a href="https://umd.box.com/s/fifyltxsu683dmjhvneq6s540lhe1p5x">Calculations </a>
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, L. A. Aucoin, M. C. Yawn, and M. Bensi. 2024b. “Comparative Analysis of Joint Distribution Models for Tropical Cyclone Atmospheric Parameters in Probabilistic Coastal Hazard Analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 38: 1741–1767. <a href="https://doi.org/10.1007/s00477-023-02652-5">https://doi.org/10.1007/s00477-023-02652-5</a>.</li><a href="https://umd.box.com/s/ways6d83vt13m6157u1qswcp2sh8wkio">Calculations </a>
 </ol>
 <p><strong>2023</strong></p>
-<ol>
+<ol type="1">
 <li>Faraji Najarkolaie, K., M. Bensi, R. Dadmun, C. Romolt, Y. Saddat, N. Louissaint (2023), “Expanding Vulnerability Indices for Pandemic Effects.” <em>Natural Hazards Review (ASCE)</em>. [<a href="https://doi.org/10.1061/NHREFO.NHENG-1575">https://doi.org/10.1061/NHREFO.NHENG-1575</a>]&nbsp; <em>&nbsp;</em></li>
 <li>Al Kajbaf, A. M. Bensi, K. Brubaker (2023), “Drivers of Uncertainty in Precipitation Frequency under Current and Future Climate – Application to Maryland, USA.” <em>Journal of Hydrology</em>, v.617(Part A). [<a href="https://doi.org/10.1016/j.jhydrol.2022.128775">https://doi.org/10.1016/j.jhydrol.2022.128775</a>]</li>
 
@@ -28,7 +28,7 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>Mohammadi, S., M.T. Bensi; S. Kao; S. T. DeNeale; J. Kanney; E. Yegorova; M. L. Carr (2023), “Bayesian-Motivated Approach for Assessment of Hurricane-Induced Multi-Mechanism (Compound) Floods.” <em>J. Waterway, Port, Coastal, and Ocean Engrg</em> [https://ascelibrary.org/doi/abs/10.1061/JWPED5.WWENG-1921].</li> 
 </ol>d
 <p><strong>2022</strong></p>
-<ol>
+<ol type="1">
 <li>Li, Lingyao, Zhao, Z. Ma, M. Bensi, M. Hall, G. Baecher (2022). “Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data.” <em>Journal of Biomedical Informatics</em>, v.129. [<a style="font-weight: 300;" href="https://doi.org/10.1016/j.jbi.2022.104054">https://doi.org/10.1016/j.jbi.2022.104054</a>]</li>
 <li>Al Kajbaf, A., M.Bensi. K. Brubaker (2022), “Temporal Downscaling of Precipitation from Climate Model Projections using Machine Learning.” <em>Stochastic Environmental Research and Risk Assessment</em>, v.36. [<a style="font-weight: 300;" href="https://doi.org/10.1007/s00477-022-02259-2">https://doi.org/10.1007/s00477-022-02259-2</a>]</li>
 <li>Faraji Najarkolaie, K., M. Bensi, A. Reilly (2022), “Near-Term and Long-Term Inundation Risk Insights for Contaminated Sites in the U.S.” <em>Journal of Hazardous, Toxic, and Radioactive Waste (ASCE), </em>v.27(1). [https://doi.org/10.1061/(ASCE)HZ.2153-5515.0000728]</li>
@@ -42,7 +42,7 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>Mohammadi, S., M.Bensi, Z. Ma, and K. Faraji Najarkolaie (2022),”Uncertainty in Predicted Tropical Cyclone Path and Landfall Characteristics for Landfalling Storms to Support External Hazard Probabilistic Risk Assessments for Critical Infrastructure – A Preliminary Analysis” at Probabilistic Safety Assessment and Management Conference, July 2022, Honolulu, Hawaii.</li> 
 </ol>
 <p><strong>2021</strong></p>
-<ol>
+<ol type="1">
 <li>Lee, J.-W., J. L. Irish, M.T. Bensi, D. C. Marcy (2021), “Rapid prediction of peak storm surge from tropical cyclone track time series using machine learning,” <em>Coastal Engineering</em>. [<a href="https://doi.org/10.1016/j.coastaleng.2021.104024">https://doi.org/10.1016/j.coastaleng.2021.104024</a>]</li>
 <li>Gibson, E. and M. Bensi (2021), “Spatial Correlation in Ground Motion Prediction Errors in Central and Eastern North America.” <em>Earthquake Spectra</em>.] 
 	
@@ -61,7 +61,7 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>García Mejía, S. A. (2021). Building Resilience Or Building Fragility? Understanding Disaster Resilience Patterns in Guatemala through the Analysis of Disaster Datasets in Connection with Population and Housing Data [Thesis]. <a href="https://doi.org/10.13016/eyvu-auxr">https://doi.org/10.13016/eyvu-auxr</a></li>
 </ol>
 <p><strong>2020</strong></p>
-<ol>
+<ol type="1">
 <li>Bensi, M. and T. Weaver (2020), “Evaluation of Tropical Cyclone Recurrence Rate: Factors Contributing to Epistemic Uncertainty,” <em>Natural Hazards</em>, 103 (3). [<a href="https://link.springer.com/article/10.1007/s11069-020-04117-2">https://link.springer.com/article/10.1007/s11069-020-04117-2</a>]</li>
 <li>Owen, D., M. Bensi, A. Davis, A. Aydilek (2020), “Measuring soil coverage using image feature descriptors and the decision tree learning algorithm,” <em>Biosystems Engineering</em>, 196. [<a href="https://doi.org/10.1016/j.biosystemseng.2020.06.002">https://doi.org/10.1016/j.biosystemseng.2020.06.002</a>]</li>
 <li>Bensi, M. and K. Groth (2020), “On the value of data fusion and model integration for generating real-time risk insights for nuclear power reactors,” <em>Progress in Nuclear Energy</em>, 129. [<a href="https://doi.org/10.1016/j.pnucene.2020.103497">https://doi.org/10.1016/j.pnucene.2020.103497</a>]</li>
