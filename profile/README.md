@@ -1,5 +1,5 @@
 <h1 class="entry-title">Risk-Informed Solutions in Engineering (RISE) Laboratory </h1>
-<ul>
+<ol>
 The RISE Lab team conducts research related to probabilistic assessment of natural hazards and associated risks as well as a variety of topics involving the applications of statistics and machine learning in engineering. RISE Lab researchers are engaged in projects involving seismic, inland flooding, precipitation, storm surge, and compound hazards.  Projects often focus on issues of relevance to nuclear power plants and other critical infrastructure.  In addition, RISE Lab researchers are engaged in a number of cross-disciplinary projects looking at topics as diverse as exploring the potential combined impacts of COVID and natural hazard events on communities of color, understanding the potential effects of climate change on contaminated sites and agriculture, and exploring seismic hazards to human lunar installations. <br/>
 
 The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UMD Center for Risk and Reliability. 
@@ -19,16 +19,16 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, L. A. Aucoin, M. C. Yawn, and M. Bensi. 2024b. “Comparative Analysis of Joint Distribution Models for Tropical Cyclone Atmospheric Parameters in Probabilistic Coastal Hazard Analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 38: 1741–1767. <a href="https://doi.org/10.1007/s00477-023-02652-5">https://doi.org/10.1007/s00477-023-02652-5</a>.</li><a href="https://umd.box.com/s/ways6d83vt13m6157u1qswcp2sh8wkio">Calculations </a>
 </ol>
 <p><strong>2023</strong></p>
-<ul>
+<ol>
 <li>Faraji Najarkolaie, K., M. Bensi, R. Dadmun, C. Romolt, Y. Saddat, N. Louissaint (2023), “Expanding Vulnerability Indices for Pandemic Effects.” <em>Natural Hazards Review (ASCE)</em>. [<a href="https://doi.org/10.1061/NHREFO.NHENG-1575">https://doi.org/10.1061/NHREFO.NHENG-1575</a>]&nbsp; <em>&nbsp;</em></li>
 <li>Al Kajbaf, A. M. Bensi, K. Brubaker (2023), “Drivers of Uncertainty in Precipitation Frequency under Current and Future Climate – Application to Maryland, USA.” <em>Journal of Hydrology</em>, v.617(Part A). [<a href="https://doi.org/10.1016/j.jhydrol.2022.128775">https://doi.org/10.1016/j.jhydrol.2022.128775</a>]</li>
 
 <li>DeJesus Segarra, J., M. Bensi, M. Modarres (2023), “Multi-Unit Seismic Probabilistic Risk Assessment: A Bayesian Network Perspective.” <em>Reliability Engineering and System Safety</em>, v.234. [<a href="https://doi.org/10.1016/j.ress.2023.109169">https://doi.org/10.1016/j.ress.2023.109169</a>]&nbsp;-&nbsp;
 <strong> <a href="https://umd.box.com/s/lqbqr9h2v84d8dt76lt2hlqj27htcb3q">Calculations </a> &nbsp;-&nbsp; <a href ="https://github.com/RISE-Lab-UMD/Manuscripts/blob/main/2023-06_MUSPRA_A_BN_Perspective_RESS_2023_109169.pdf" >Manuscript</a>&nbsp;-&nbsp; <a href = "https://github.com/RISE-Lab-UMD/Figures/blob/main/MUSPRA_A_BN_Perspective_Figures1-16.pdf"> Figures</a></strong>
 <li>Mohammadi, S., M.T. Bensi; S. Kao; S. T. DeNeale; J. Kanney; E. Yegorova; M. L. Carr (2023), “Bayesian-Motivated Approach for Assessment of Hurricane-Induced Multi-Mechanism (Compound) Floods.” <em>J. Waterway, Port, Coastal, and Ocean Engrg</em> [https://ascelibrary.org/doi/abs/10.1061/JWPED5.WWENG-1921].</li> 
-</ul>
+</ol>d
 <p><strong>2022</strong></p>
-<ul>
+<ol>
 <li>Li, Lingyao, Zhao, Z. Ma, M. Bensi, M. Hall, G. Baecher (2022). “Dynamic assessment of the COVID-19 vaccine acceptance leveraging social media data.” <em>Journal of Biomedical Informatics</em>, v.129. [<a style="font-weight: 300;" href="https://doi.org/10.1016/j.jbi.2022.104054">https://doi.org/10.1016/j.jbi.2022.104054</a>]</li>
 <li>Al Kajbaf, A., M.Bensi. K. Brubaker (2022), “Temporal Downscaling of Precipitation from Climate Model Projections using Machine Learning.” <em>Stochastic Environmental Research and Risk Assessment</em>, v.36. [<a style="font-weight: 300;" href="https://doi.org/10.1007/s00477-022-02259-2">https://doi.org/10.1007/s00477-022-02259-2</a>]</li>
 <li>Faraji Najarkolaie, K., M. Bensi, A. Reilly (2022), “Near-Term and Long-Term Inundation Risk Insights for Contaminated Sites in the U.S.” <em>Journal of Hazardous, Toxic, and Radioactive Waste (ASCE), </em>v.27(1). [https://doi.org/10.1061/(ASCE)HZ.2153-5515.0000728]</li>
@@ -40,9 +40,9 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>Bensi, M., S. Mohammadi, N. Ghosh, T. Liu, C. Levine, A. Al-Douri, R. Schneider, Z. Wu, K. Groth, Z. Ma (2022), “Uncertainty in External Hazard Probabilistic Risk Assessment (PRA): A Structured Taxonomy” at Probabilistic Safety Assessment and Management Conference, July 2022, Honolulu, Hawaii.</li> &nbsp;-&nbsp;
 <strong> &nbsp;-&nbsp; <a href ="https://github.com/RISE-Lab-UMD/Manuscripts/blob/main/MB157-PSAM16.pdf" >Manuscript</a>&nbsp;-&nbsp; <a href = "https://github.com/RISE-Lab-UMD/Figures/blob/main/MB157-SLIDES-PSAM16.pdf"> Figures</a></strong>
 <li>Mohammadi, S., M.Bensi, Z. Ma, and K. Faraji Najarkolaie (2022),”Uncertainty in Predicted Tropical Cyclone Path and Landfall Characteristics for Landfalling Storms to Support External Hazard Probabilistic Risk Assessments for Critical Infrastructure – A Preliminary Analysis” at Probabilistic Safety Assessment and Management Conference, July 2022, Honolulu, Hawaii.</li> 
-</ul>
+</ol>
 <p><strong>2021</strong></p>
-<ul>
+<ol>
 <li>Lee, J.-W., J. L. Irish, M.T. Bensi, D. C. Marcy (2021), “Rapid prediction of peak storm surge from tropical cyclone track time series using machine learning,” <em>Coastal Engineering</em>. [<a href="https://doi.org/10.1016/j.coastaleng.2021.104024">https://doi.org/10.1016/j.coastaleng.2021.104024</a>]</li>
 <li>Gibson, E. and M. Bensi (2021), “Spatial Correlation in Ground Motion Prediction Errors in Central and Eastern North America.” <em>Earthquake Spectra</em>.] 
 	
@@ -59,16 +59,16 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <li>Shen, J., M.Bensi, M. Modarres (2021), “Review of Operating Experience and Fragility Development During Flooding Incidents at Nuclear Power Stations,” Proceedings of 2021 International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA 2021), Nov. 8-12 [Virtual].</li>
 <li>Garcia, Sergio; Ghosh, Nilanjana; Bensi, Michelle (2021) “Leveraging digital news to create databases of the impacts of small, medium and, large disasters.” DesignSafe-CI. <a href="https://doi.org/10.17603/ds2-29ee-1862">https://doi.org/10.17603/ds2-29ee-1862</a>.</li>
 <li>García Mejía, S. A. (2021). Building Resilience Or Building Fragility? Understanding Disaster Resilience Patterns in Guatemala through the Analysis of Disaster Datasets in Connection with Population and Housing Data [Thesis]. <a href="https://doi.org/10.13016/eyvu-auxr">https://doi.org/10.13016/eyvu-auxr</a></li>
-</ul>
+</ol>
 <p><strong>2020</strong></p>
-<ul>
+<ol>
 <li>Bensi, M. and T. Weaver (2020), “Evaluation of Tropical Cyclone Recurrence Rate: Factors Contributing to Epistemic Uncertainty,” <em>Natural Hazards</em>, 103 (3). [<a href="https://link.springer.com/article/10.1007/s11069-020-04117-2">https://link.springer.com/article/10.1007/s11069-020-04117-2</a>]</li>
 <li>Owen, D., M. Bensi, A. Davis, A. Aydilek (2020), “Measuring soil coverage using image feature descriptors and the decision tree learning algorithm,” <em>Biosystems Engineering</em>, 196. [<a href="https://doi.org/10.1016/j.biosystemseng.2020.06.002">https://doi.org/10.1016/j.biosystemseng.2020.06.002</a>]</li>
 <li>Bensi, M. and K. Groth (2020), “On the value of data fusion and model integration for generating real-time risk insights for nuclear power reactors,” <em>Progress in Nuclear Energy</em>, 129. [<a href="https://doi.org/10.1016/j.pnucene.2020.103497">https://doi.org/10.1016/j.pnucene.2020.103497</a>]</li>
 <li>DeJesus Segarra, J., M. Bensi, T. Weaver, M. Modarres (2020), “Extension of Probabilistic Seismic Hazard Analysis to Account for the Spatial Variability of Ground Motions at a Multi-Unit Nuclear Power Plant Hard-Rock Site,” <em>Structural Safety</em>, 85. [<a href="https://doi.org/10.1016/j.strusafe.2020.101958">https://doi.org/10.1016/j.strusafe.2020.101958</a>]<strong> <a href="https://umd.box.com/s/qi3o8k0fb9hrrz63zi36q4fr0eqlf68x"> Calculations </a></strong></li>
 <li>Al Kajbaf, A., M. Bensi (2020), “Application of Surrogate Models in Estimation of Storm Surge: A Comparative Assessment,” <em>Applied Soft Computing</em>. [<a href="https://doi.org/10.1016/j.asoc.2020.106184">https://doi.org/10.1016/j.asoc.2020.106184</a>]</li>
 <li>Bensi, M., S. Mohammadi, S. Kao, S. DeNeale, “Multi-Mechanism Flood Hazard Assessment: Critical Review of Current Practice and Approaches.” ORNL/TM-2020/1447.&nbsp; [<a href="https://doi.org/10.2172/1637939">https://doi.org/10.2172/1637939</a>]</li>
-</ul>
+</ol>
 			</div><!-- .entry-content -->
 	<footer class="entry-meta">
 			</footer><!-- .entry-meta -->
