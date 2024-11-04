@@ -15,8 +15,8 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 
 <p><strong>2024</strong></p>
 <ul>
-<li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, M. C. Yawn, A. A. Taflanidis, and M. Bensi. (2024). “Machine Learning Motivated Data Imputation of Storm Data Used in Coastal Hazard Assessments.” <em>Coastal Engineering</em>, 190. <a href="https://doi.org/10.1016/j.coastaleng.2024.104505">https://doi.org/10.1016/j.coastaleng.2024.104505</a>.</li> <a href="https://umd.box.com/s/ways6d83vt13m6157u1qswcp2sh8wkio">Calculations </a>
-<li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, L. A. Aucoin, M. C. Yawn, and M. Bensi. 2024b. “Comparative Analysis of Joint Distribution Models for Tropical Cyclone Atmospheric Parameters in Probabilistic Coastal Hazard Analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 38: 1741–1767. <a href="https://doi.org/10.1007/s00477-023-02652-5">https://doi.org/10.1007/s00477-023-02652-5</a>.</li><a href="https://umd.box.com/s/fifyltxsu683dmjhvneq6s540lhe1p5x">Calculations </a>
+<li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, M. C. Yawn, A. A. Taflanidis, and M. Bensi. (2024). “Machine Learning Motivated Data Imputation of Storm Data Used in Coastal Hazard Assessments.” <em>Coastal Engineering</em>, 190. <a href="https://doi.org/10.1016/j.coastaleng.2024.104505">https://doi.org/10.1016/j.coastaleng.2024.104505</a>.</li> <a href="https://umd.box.com/s/fifyltxsu683dmjhvneq6s540lhe1p5x">Calculations </a>
+<li>Liu, Z., M. L. Carr, N. C. Nadal-Caraballo, L. A. Aucoin, M. C. Yawn, and M. Bensi. 2024b. “Comparative Analysis of Joint Distribution Models for Tropical Cyclone Atmospheric Parameters in Probabilistic Coastal Hazard Analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 38: 1741–1767. <a href="https://doi.org/10.1007/s00477-023-02652-5">https://doi.org/10.1007/s00477-023-02652-5</a>.</li><a href="https://umd.box.com/s/ways6d83vt13m6157u1qswcp2sh8wkio">Calculations </a>
 </ul>
 <p><strong>2023</strong></p>
 <ul>
