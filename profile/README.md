@@ -7,10 +7,11 @@ The RISE Lab collaborates with the UMD Center for Disaster Resilience and the UM
 RISE Lab graduate students are typically seeking degrees in Civil and Environmental Engineering and Reliability Engineering. However, graduate and undergraduate students from diverse majors have participated in projects through the RISELab.
 <h2> Repo contents<h2>
 <a href="https://github.com/RISE-Lab-UMD/Hurdat2-Parser">Hurdat2 Parser</a><br>
-<a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Windspeed Error Correlation</a><br>
+
 <a href="https://github.com/RISE-Lab-UMD/Storms-Batch-D">Batch-Downloading-Scripts</a><br>
 <a href="https://github.com/RISE-Lab-UMD/saphire-to-matlab"> saphire to matlab </a> <br>
-<h1 class="entry-title"> In progress </h1>
+<h2 class="entry-title"> In progress </h2>
+<a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Windspeed Error Correlation</a><br>
 <h1 class="entry-title">Recent Publications</h1>
 
 <p><strong>2024</strong></p>
