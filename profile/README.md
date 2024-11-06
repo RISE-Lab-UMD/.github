@@ -10,7 +10,7 @@ RISE Lab graduate students are typically seeking degrees in Civil and Environmen
 <a href="https://github.com/RISE-Lab-UMD/Storms-Batch-D">Batch Downloading Scripts</a><br>
 <a href="https://github.com/RISE-Lab-UMD/Software-Interface-Scripts"> Software Interface Scripts </a> <br>
 <h2 class="entry-title"> In progress </h2>
-Amirreza Mohammadi: <a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Windspeed Error Correlation</a><br>
+Amirreza Mohammadi: <a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Correlation">Characterizations of Windspeed Residuals Spatial Correlation</a><br>
 <h1 class="entry-title">Recent Publications</h1>
 
 <p><strong>2024</strong></p>
