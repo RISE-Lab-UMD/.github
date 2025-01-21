@@ -15,7 +15,7 @@ Amirreza Mohammadi: <a href="https://github.com/RISE-Lab-UMD/Windspeed-Error-Cor
 
 <p><strong>2025</strong></p>
 <ol type="1">
-<li>Shen, J., Bensi, M., & Modarres, M. (2025). A Monte Carlo augmented Bayesian network approach for external flood PRAs. <em>Nuclear Engineering and Design</em>, 433, 113840. <a href="https://doi.org/10.1016/j.nucengdes.2025.113840">https://doi.org/10.1016/j.nucengdes.2025.113840</a>.</li> <strong><a href="https://umd.box.com/s/fifyltxsu683dmjhvneq6s540lhe1p5x">Calculations </a></strong>
+<li>Shen, J., Bensi, M., & Modarres, M. (2025). A Monte Carlo augmented Bayesian network approach for external flood PRAs. <em>Nuclear Engineering and Design</em>, 433, 113840. <a href="https://doi.org/10.1016/j.nucengdes.2025.113840">https://doi.org/10.1016/j.nucengdes.2025.113840</a>.</li> <strong><a href="https://umd.box.com/s/fifyltxsu683dmjhvneq6s540lhe1p5x">Calculations (pending) </a></strong>
 </ol>
 
 <p><strong>2024</strong></p>
